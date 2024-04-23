@@ -32,9 +32,16 @@ dependencies:
     sdk: flutter
   # my_package: 
   #   path: /Users/zadeveloper/Desktop/my_package
-  my_package:
-    git:
-      url: https://github.com/SweZinNyein/test_package.git
+
+  sap_db_lib: 
+    path: /Users/zadeveloper/Desktop/sap_db_lib
+  camera: ^0.8.1+4  # Use the latest version of the camera package
+  image_picker: ^1.0.4
+
+
+  # my_package:
+  #   git:
+  #     url: https://github.com/SweZinNyein/test_package.git
 
 
   # The following adds the Cupertino Icons font to your application.
